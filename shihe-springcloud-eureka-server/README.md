@@ -37,3 +37,5 @@ eureka.client.fetch-registry=false # 本节点为server节点，不需要同步�
 测试 http://localhost:8000/eureka/
 
 ![eureka-server](https://www.tutorialspoint.com/spring_boot/images/eureka_server_running_on_port_8761.jpg)
+
+#### 注：spring cloud微服务体系内，注册中心除了Eureka 还有Nacos

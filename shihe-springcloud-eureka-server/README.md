@@ -13,7 +13,7 @@
 开启eureka server
 ```java
 @SpringBootApplication
-@EnableEurekaServer
+@EnableEurekaServer // 开启eureka注册中心
 public class ShiheSpringcloudEurekaServerApplication {
 
     public static void main(String[] args) {

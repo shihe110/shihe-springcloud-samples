@@ -79,8 +79,8 @@ public class HelloFeignController {
 
 注册中心
 
-![注册中心](https://github.com/shihe110/shihe-springcloud-samples/blob/master/shihe-springcloud-feign/metadata/feign-server.png)
+![注册中心](https://mmbiz.qpic.cn/mmbiz_png/a2yUAKXzX0amsldyKrSk8uoEcVXo8QicoId3XicgdRKeMPCxUUJSqladqw7xfwEM6ibgskwO6RCEvFM5zSnNuYHTw/0?wx_fmt=png)
 
 调用结果
 
-![调用结果](https://github.com/shihe110/shihe-springcloud-samples/blob/master/shihe-springcloud-feign/metadata/feign-result.png)
+![调用结果](https://mmbiz.qpic.cn/mmbiz_png/a2yUAKXzX0amsldyKrSk8uoEcVXo8QicoSUd0vYDzYprXGGibl5nfkHzU2PPicuqBJicEspBLIR6xwnsLVZyUiaEX3Q/0?wx_fmt=png)

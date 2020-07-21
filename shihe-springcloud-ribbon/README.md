@@ -71,7 +71,7 @@ public class HelloController {
 
 启动注册中心：spring-cloud-eureka-server 端口8000
 
-![注册中心](https://github.com/shihe110/shihe-springcloud-samples/blob/master/shihe-springcloud-ribbon/metadata/ribbon-server.png)
+![注册中心](https://mmbiz.qpic.cn/mmbiz_png/a2yUAKXzX0amsldyKrSk8uoEcVXo8QicoH8b8ZHLCgVqico2Zep9DiadA4fZlLy4x2rCRWFUr82icImw23U2uULeibQ/0?wx_fmt=png)
 
 启动服务：spring-cloud-eureka-client 端口9000
 
@@ -79,5 +79,5 @@ public class HelloController {
 
 测试地址：http://localhost:9001/hello/ribbon
 
-![调用结果](https://github.com/shihe110/shihe-springcloud-samples/blob/master/shihe-springcloud-ribbon/metadata/ribbon-result.png)
+![调用结果](https://mmbiz.qpic.cn/mmbiz_png/a2yUAKXzX0amsldyKrSk8uoEcVXo8QicoFm4rgyjNkQRQXKSJQHiayhPRfe9mPn3lDwlUTl9aHfxJww9NPNnUVZw/0?wx_fmt=png)
 

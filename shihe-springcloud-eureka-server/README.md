@@ -1,5 +1,5 @@
 ## 服务发现 Service Discovery: Eureka Server
-[Service Discovery: Eureka Server](https://projects.spring.io/spring-cloud/spring-cloud.html#spring-cloud-eureka-server)
+[Service Discovery: Eureka Server官方文档](https://projects.spring.io/spring-cloud/spring-cloud.html#spring-cloud-eureka-server)
 
 ## step1
 新建model添加依赖

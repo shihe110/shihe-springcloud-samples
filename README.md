@@ -1,2 +1,14 @@
 # shihe-springcloud-samples
 记录学习SpringCloud示例代码
+
+## 注册中心Eureka(单节点模式)
+[eureka-server](https://github.com/shihe110/shihe-springcloud-samples/tree/master/shihe-springcloud-eureka-server)
+
+## Eureka客户端
+[eureka client](https://github.com/shihe110/shihe-springcloud-samples/tree/master/shihe-springcloud-eureka-client)
+
+## 服务调用-Ribbon + RestTemplate
+[服务调用（服务消费）](https://github.com/shihe110/shihe-springcloud-samples/tree/master/shihe-springcloud-ribbon)
+
+## 服务调用-Feign
+[Feign](https://github.com/shihe110/shihe-springcloud-samples/tree/master/shihe-springcloud-feign)

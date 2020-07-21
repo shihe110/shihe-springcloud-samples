@@ -34,7 +34,7 @@ eureka.client.register-with-eureka=false # 不注册本身
 eureka.client.fetch-registry=false # 本节点为server节点，不需要同步其他服务节点
 ```
 ## step4
-测试 http://localhost:8000/eureka/
+测试 http://localhost:8000
 
 ![eureka-server](https://www.tutorialspoint.com/spring_boot/images/eureka_server_running_on_port_8761.jpg)
 

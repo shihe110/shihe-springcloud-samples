@@ -70,11 +70,14 @@ public class HelloController {
 ## step 4
 
 启动注册中心：spring-cloud-eureka-server 端口8000
-[注册中心]()
+
+![注册中心](https://github.com/shihe110/shihe-springcloud-samples/blob/master/shihe-springcloud-ribbon/metadata/ribbon-server.png)
 
 启动服务：spring-cloud-eureka-client 端口9000
 
 启动调用ribbon服务并测试：spring-cloud-ribbon 端口9001
 
 测试地址：http://localhost:9001/hello/ribbon
+
+![调用结果](https://github.com/shihe110/shihe-springcloud-samples/blob/master/shihe-springcloud-ribbon/metadata/ribbon-result.png)
 

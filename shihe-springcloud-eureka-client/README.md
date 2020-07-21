@@ -20,7 +20,7 @@
 开启eureka client
 ```java
 @SpringBootApplication
-@EnableEurekaClient
+@EnableEurekaClient // 开启eureka客户端 也可以使用@EnableDiscoveryClient
 public class ShiheSpringcloudEurekaClientApplication {
 
     public static void main(String[] args) {

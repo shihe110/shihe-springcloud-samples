@@ -69,3 +69,5 @@ bootstrap添加注册中心地址及配置中心服务id
 
 配置中心server服务，启动多个实例，且注册到注册中心提供配置服务实现配置中心高可用
 
+![配置中心服务化高可用](https://mmbiz.qpic.cn/mmbiz_png/a2yUAKXzX0bd2tTmYFnsdKk79DWS8aNKlNWGwf3l4t1vxt9LibyicdpWF3uSU7gPPL1hMtp1iaj2QxGdqC9lZGySw/0?wx_fmt=png)
+

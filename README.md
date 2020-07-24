@@ -12,3 +12,13 @@
 
 ## 服务调用-Feign
 [Feign](https://github.com/shihe110/shihe-springcloud-samples/tree/master/shihe-springcloud-feign)
+
+## 服务熔断-Hystrix
+[Hystrix-ribbon](https://github.com/shihe110/shihe-springcloud-samples/tree/master/shihe-springcloud-ribbon-hystrix)
+[Hystrix-feign](https://github.com/shihe110/shihe-springcloud-samples/tree/master/shihe-springcloud-feign-hystrix)
+
+## 熔断监控-Hystrix-DashBoard
+[Hystrix DashBoard](https://github.com/shihe110/shihe-springcloud-samples/tree/master/shihe-springcloud-ribbon-hystrix-dashboard)
+
+## 配置中心spring cloud config
+[springcloud-config-server](https://github.com/shihe110/shihe-springcloud-samples/tree/master/shihe-springcloud-config-server)

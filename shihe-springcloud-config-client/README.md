@@ -56,3 +56,16 @@ public class ConfigClientController {
 }
 ```
 
+## 配置中心服务化且实现高可用
+配置中心server端改造：
+添加注册中心依赖
+主类开启服务发现
+application配置注册中心地址等
+
+配置中心client端改造：
+依赖eureka
+主类开启服务发现注解
+bootstrap添加注册中心地址及配置中心服务id
+
+配置中心server服务，启动多个实例，且注册到注册中心提供配置服务实现配置中心高可用
+
